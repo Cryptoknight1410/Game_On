@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841066593966",
+    "project_id": "game-on-96189",
+    "storage_bucket": "game-on-96189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841066593966:android:52ef22f33902ff3e65f73f",
+        "android_client_info": {
+          "package_name": "com.example.games_on"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841066593966-2las2r6faadfp3abk9jf2omps1v8h6tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4QJxanvwfygraJFQKW9AFh0iEdqepojk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841066593966-2las2r6faadfp3abk9jf2omps1v8h6tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
